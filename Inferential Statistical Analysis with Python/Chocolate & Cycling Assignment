@@ -1,0 +1,11 @@
+In this memo we are going to interpret the results of a sampling to see if consumption of chocolate affects on the performance of the bicycle team or not and if it is statistically true, does the type of the chocolate matter?
+
+First of all I think that it was best to have the results of all 9 members of the sample because this cross over design is one type of comparing the paired groups so we had to find the difference of the measure of each member under each circumstance and see if this difference is statistically different than 0 or not.
+
+Now that we do not have the data, we can think that these are independent groups. Also the number of members are 9 which is not a very big number so we have to find if the distribution of measures are bell curved (Normal Distribution).
+
+We assume that we checked and they are bell curved. First of all we see the results to see if there is a significant difference on performance in eating dark chocolate or not.
+
+95% Confidence Interval for the population average change in total distance covered (dark chocolate over baseline) is 165 m to 314 m. This means if we repeat resampling with the same size and circumstance , 95 percent of intervals will cover the true population average change in total distance covered. So we see that 0 is not in this interval. Thus we reject the null hypothesis that said consumption of dark chocolate does not affect on the performance. We can also get this result by looking at P-value. The P-value is 0.001 which is a very small number compared to regular significance levels such as alpha=0.05 so we will reject the null hypothesis and interpret that eating dark chocolate does affect on the performance.
+
+Now we want to see if eating dark or white chocolate matters. Our null hypothesis is that they do not matter so the difference will be 0. We look at the confidence interval: 95% Confidence Interval for the population average change in total distance covered (dark chocolate over white chocolate) is 82 m to 292 m. We can see that 0 is not in this interval. Also the P-value is 0.003 which is also much lower than alpha= 0.05 so we reject the null hypothesis and interpret that the type of the chocolate does really matter on performance of the bicycle team.
